@@ -9,8 +9,8 @@
     ]
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/stanidesis/toastyplugin.git"
+    "type": "github",
+    "url": "https://github.com/manishk901/cordovatoastyplugin.git"
   },
   "keywords": [
     "Toast",
